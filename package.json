@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soe-j/place-cmd/issues"
   },
-  "homepage": "https://github.com/soe-j/place-cmd#readme"
+  "homepage": "https://github.com/soe-j/place-cmd#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0"
+  }
 }
